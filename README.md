@@ -31,7 +31,7 @@
 
 <!-- ## ![Abhinav's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Abhinav-22&theme=minimal) -->
 
-### 📺 Pojects Demo Videos
+### 📺 Project Demo Videos
 
 - [Relapse Preventer](https://www.youtube.com/watch?v=UfT9Hx-U2ic&ab_channel=AbhinavAnil)
 
