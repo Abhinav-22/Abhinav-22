@@ -1,7 +1,7 @@
 ### Hi there, I'm Abhinav Anil👋
 
 [![Linked In](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-anil-02ab35210/)
-[![LeetCode](https://img.shields.io/badge/Leetcode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/abhinavanil9/)
+<!-- [![LeetCode](https://img.shields.io/badge/Leetcode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/abhinavanil9/) -->
 
 <h3> I'm a 3rd Year Undergrad, Programmer </h3>
 
