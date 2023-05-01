@@ -6,7 +6,7 @@
 <h3> I'm a 4th Year Undergrad, Programmer </h3>
 
 <!-- - 🌱 I’m currently learning Node.js -->
-- 👯 I’m a frontend developer and enjoy doing DSA
+- 👯 I’m a full stack developer and enjoy doing DSA
 - 💬 I would love to collaborate on projects
 
 
